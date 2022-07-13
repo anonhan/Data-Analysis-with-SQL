@@ -7,7 +7,7 @@ WITH amt_spent AS
 			FROM 	sales S
            		GROUP B S.customer_id, S.product_id
             )
-SELECT 		A.customer_id,
-	 	SUM(A.Total_Orders * price) 'Total Amount Spent' 
-FROM		amt_spent AS A JOIN menu M ON M.product_id = A.product_id 
-GROUP BY	A.customer_id;
+SELECT 	 A.customer_id,
+	 SUM(A.Total_Orders * price) 'Total Amount Spent' 
+FROM	 amt_spent AS A JOIN menu M ON M.product_id = A.product_id 
+GROUP BY A.customer_id;
