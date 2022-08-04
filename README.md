@@ -8,4 +8,4 @@ There are total 8 case studies, each containing a different database. There are 
 
 I firmly believe if one is able to solve all these questions, then he has a strong knowledge of SQL, data analytics using SQL and data cleaning using SQL.
 
-#### Special Thanks: All the credits goes to [Dannyma](https://www.linkedin.com/in/datawithdanny/) for creating this amazing challenge, to test our knowledge about SQL and learn some new things about SQL.
+#### Special Thanks 🙏🏼: All the credits goes to [Dannyma](https://www.linkedin.com/in/datawithdanny/) for creating this amazing challenge, to test our knowledge about SQL and learn some new things about SQL.
