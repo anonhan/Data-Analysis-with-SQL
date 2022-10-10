@@ -1,6 +1,6 @@
 ## Data-Analysis-with-SQL
 
-This repository contains solution to all the case study questions from the [8-Week SQL Challenge](https://8weeksqlchallenge.com/) which is created by [Dannyma](https://www.linkedin.com/in/datawithdanny/). Danny is a data scientist and has trained a plethora of data aspirants around the globe. 
+This repository contains solution to all the case study questions from the [8-Week SQL Challenge](https://8weeksqlchallenge.com/) which was created by [Dannyma](https://www.linkedin.com/in/datawithdanny/). Danny is a data scientist and has trained a enormous of data aspirants around the globe. 
 
 These case studies are created to test the knowledge of SQL as well as to show the day-to-day work of a SQL developer, data analyst and data scientist.
 
