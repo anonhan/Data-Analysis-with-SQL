@@ -1,8 +1,8 @@
 ## Question: 
-#### 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
+#### 1. How many pizzas were ordered?
 
 ### Answer:
 
-![image](https://user-images.githubusercontent.com/35657846/194895191-528b8e6f-1138-4505-bc96-66d719bfd115.png)
+![image](https://user-images.githubusercontent.com/35657846/194896123-0dfaeaa3-8ba8-4254-8620-55a3e0bd95ee.png)
 
-#### First week had seen the highest number of runners signing up.
+#### The total number of orders was 14.
